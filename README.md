@@ -1,1 +1,1 @@
-The [frontend] (https://github.com/ElkkuElias/frntendfit)
+The [frontend](https://github.com/ElkkuElias/frntendfit)
